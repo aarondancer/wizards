@@ -40,7 +40,7 @@
 							<p>Bacon ipsum dolor amet fatback jerky tri-tip, drumstick porchetta alcatra boudin spare ribs doner sausage pastrami pork loin beef shank meatball.</p>
 						</td>
 						<td>
-							<a class="btn btn-lg btn-primary">Start</a>
+							<a href="?page=marketing" class="btn btn-lg btn-primary">Start</a>
 						</td>
 					</table>
 				</div>
@@ -54,7 +54,7 @@
 							<p>Bacon ipsum dolor amet fatback jerky tri-tip, drumstick porchetta alcatra boudin spare ribs doner sausage pastrami pork loin beef shank meatball.</p>
 						</td>
 						<td>
-							<a class="btn btn-lg btn-info">View</a>
+							<a href="?page=offers" class="btn btn-lg btn-info">View</a>
 						</td>
 					</table>
 				</div>
@@ -68,7 +68,7 @@
 							<p>Bacon ipsum dolor amet fatback jerky tri-tip, drumstick porchetta alcatra boudin spare ribs doner sausage pastrami pork loin beef shank meatball.</p>
 						</td>
 						<td>
-							<a class="btn btn-lg btn-primary">Start</a>
+							<a href="?paperwork" class="btn btn-lg btn-primary">Start</a>
 						</td>
 					</table>
 				</div>

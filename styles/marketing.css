@@ -1,0 +1,39 @@
+.marketing {
+	padding-bottom: 48px;
+	/*margin-top: -48px;*/
+}
+
+.marketing h1, .marketing h4 {
+	text-align: center;
+}
+
+.marketing .block {
+	background: #fff;
+	margin: 12px 0;
+	padding: 20px;
+	border-radius: 8px;
+	margin-top: 48px;
+}
+
+.marketing label {
+	color: #7F5ED4;
+}
+
+.marketing .form-horizontal {
+	margin: 0;
+}
+
+.marketing .blast-off {
+	font-size: 28px;
+	padding: 16px 32px;
+}
+
+.marketing .upgrade {
+	font-size: 16px;
+	padding: 8px 16px;
+}
+
+.marketing .logos img {
+	margin: 24px 0;
+	-webkit-filter: grayscale(50%);
+}
