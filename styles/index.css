@@ -36,6 +36,11 @@ h2 {
 	z-index: -1;
 }
 
+.cloudsf {
+	z-index: 1;
+	display:block;
+}
+
 .main .magic {
 	padding: 12px 40px;
 	font-size: 24px;
@@ -97,4 +102,17 @@ h2 {
 .subscribe h1, .subscribe h2 {
 	text-align: center;
 	color: #333 !important;
+}
+
+#subclouds {
+    -moz-transform: scaleY(-1);
+    -o-transform: scaley(-1);
+    -webkit-transform: scaleY(-1);
+    transform: scaleY(-1);
+    filter: FlipV;
+    -ms-filter: "FlipV";
+}
+
+footer {
+	padding-top: 0;
 }

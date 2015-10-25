@@ -2,6 +2,10 @@
 	font-family: 'Lato';
 }
 
+.container {
+	max-width: 900px;
+}
+
 .navbar {
 	background: rgba(255,255,255,0.9);
 }
@@ -22,6 +26,10 @@
 
 body {
 	background: #eee;
+}
+
+.cloudsf {
+	display: none;
 }
 
 footer {

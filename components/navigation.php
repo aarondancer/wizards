@@ -16,6 +16,7 @@
       <ul class="nav navbar-nav">
         <?php if (!isset($_GET['page'])) { ?><li><a href="#clouds">what we do</a></li><?php } ?>
         <?php if (!isset($_GET['page'])) { ?><li><a href="#about">about</a></li><?php } ?>
+        <?php if (!isset($_GET['page'])) { ?><li><a href="#subclouds">subscribe</a></li><?php } ?>
         <?php if (isset($_GET['page'])) { ?><li><a href="?page=dashboard">dashboard</a></li><?php } ?>
       </ul>
       <ul class="nav navbar-nav navbar-right">

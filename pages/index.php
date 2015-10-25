@@ -54,6 +54,7 @@
 		<h2>we love to build magical experiences</h2>
 	</div>
 </div>
+<img width="100%" id="subclouds" class="clouds" src="img/clouds-bottom.svg"/>
 <div class="subscribe">
 	<div class="container">
 		<h1>Subscribe</h1>

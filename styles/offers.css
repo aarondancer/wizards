@@ -1,0 +1,28 @@
+.dashboard {
+	padding-bottom: 48px;
+	/*margin-top: -48px;*/
+}
+
+.dashboard .circles {
+	margin-top: 48px;
+}
+
+.dashboard .block {
+	color: #7F5ED4;
+	background: #fff;
+	margin: 12px 0;
+	padding: 16px 20px;
+	border-radius: 8px;
+}
+
+.dashboard .circle h5 {
+	text-transform: uppercase;
+}
+
+.dashboard .btn {
+	width: 100px;
+}
+
+.dashboard h5 {
+	margin-top: 0;
+}
