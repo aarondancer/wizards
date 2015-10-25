@@ -1,0 +1,53 @@
+.preparation {
+	padding-bottom: 48px;
+	/*margin-top: -48px;*/
+}
+
+.preparation h1, .preparation h4 {
+	text-align: center;
+}
+
+.preparation .circles {
+	margin-top: 48px;
+}
+
+.preparation .block {
+	color: #7F5ED4;
+	background: #fff;
+	margin: 12px 0;
+	padding: 16px 20px;
+	border-radius: 8px;
+}
+
+.preparation .circle h5 {
+	text-transform: uppercase;
+}
+
+.preparation .circle .content {
+	text-align: right;
+	float: right;
+}
+
+.preparation i.fa-3x {
+	border: 4px solid #7F5ED4;
+	border-radius: 100%;
+	text-align: center;
+	width: 120px;
+	height: 120px;
+	line-height: 120px;
+	color: #7F5ED4;
+	margin-right: 20px;
+}
+
+.preparation .pictures img {
+	margin-bottom: 28px;
+}
+
+.preparation .well {
+	padding: 28px;
+	padding-bottom: 0;
+}
+
+.preparation .upload {
+	margin-bottom: 16px;
+}

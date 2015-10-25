@@ -18,6 +18,7 @@
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <?php if (!isset($_GET['page'])) { ?><li><a href="?page=dashboard">dashboard</a></li><?php } ?>
+        <?php if (isset($_GET['page'])) { ?><li><a href="#"><i class="fa fa-bell-o"></i></a></li><?php } ?>
         <?php if (isset($_GET['page'])) { ?><li><a href="?">logout</a></li><?php } ?>
       </ul>
     </div><!-- /.navbar-collapse -->
