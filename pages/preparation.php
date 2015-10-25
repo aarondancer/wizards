@@ -70,7 +70,7 @@
 							<p>Bacon ipsum dolor amet fatback jerky tri-tip, drumstick porchetta alcatra boudin spare ribs doner sausage pastrami pork loin beef shank meatball.</p>
 							<div class="row">
 								<div class="col-md-3">
-									<a class="btn btn-lg btn-primary upload"><i class="fa fa-cloud-upload"></i>&nbsp;Upload Photos</a>
+									<a class="btn btn-primary upload"><i class="fa fa-cloud-upload"></i>&nbsp;Upload Photos</a>
 								</div>
 								<div class="col-md-9">
 									<div class="well">
