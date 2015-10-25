@@ -3,7 +3,7 @@
 		<img width="100%" class="home" style="max-width: 520px" src="img/home.svg"/>
 		<h1>Selling Your Home</h1>
 		<h2>Simple, and by yourself</h2>
-		<a class="btn btn-lg btn-success magic"><i class="fa fa-magic"></i> Show Me The <b>Magic</b>!</a>
+		<a href="#subclouds" class="btn btn-lg btn-success magic"><i class="fa fa-magic"></i> Show Me The <b>Magic</b>!</a>
 		<br><br>
 		<a href="#clouds"><i class="fa fa-4x fa-chevron-down" style="color: #fff"></i></a>
 	</div>
