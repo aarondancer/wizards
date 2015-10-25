@@ -1,0 +1,100 @@
+body {
+	background: #7F5ED4 !important;
+}
+
+h1, h2, h3{
+	color: #fff;
+	margin-top: 0;
+}
+
+h2 {
+	padding: 0;
+	font-size: 36px;
+	font-weight: 300;
+}
+
+.navbar {
+	background: transparent;
+}
+
+.navbar a {
+	color: #fff;
+}
+
+.main {
+	margin-bottom: 24px;
+}
+
+.main .home {
+	margin: 24px 0;
+}
+
+.clouds {
+	position: relative;
+	top: 0;
+	left: 0;
+	z-index: -1;
+}
+
+.main .magic {
+	padding: 12px 40px;
+	font-size: 24px;
+	font-weight: 300;
+	text-transform: uppercase;
+}
+
+.what {
+	background: #fff;
+	padding-bottom: 48px;
+	/*margin-top: -48px;*/
+}
+
+.what h1, .what h2 {
+	color: #7F5ED4;
+	text-align: center;
+}
+
+.what .circles {
+	margin-top: 48px;
+}
+
+.what .circles .row > div {
+	text-align: center;
+}
+
+.what .circle {
+	color: #7F5ED4;
+}
+
+.what .circle h5 {
+	text-transform: uppercase;
+}
+
+.what .circle i {
+	border: 4px solid #7F5ED4;
+	border-radius: 100%;
+	text-align: center;
+	width: 120px;
+	height: 120px;
+	line-height: 120px;
+	color: #7F5ED4;
+}
+
+.about {
+	padding: 48px;
+}
+
+.about h1, .about h2 {
+	text-align: center;
+}
+
+.subscribe {
+	padding: 48px;
+	background: #fff;
+	color: #333 !important;
+}
+
+.subscribe h1, .subscribe h2 {
+	text-align: center;
+	color: #333 !important;
+}

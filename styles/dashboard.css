@@ -1,0 +1,44 @@
+.dashboard {
+	padding-bottom: 48px;
+	/*margin-top: -48px;*/
+}
+
+.dashboard h1, .dashboard h4 {
+	text-align: center;
+}
+
+.dashboard .circles {
+	margin-top: 48px;
+}
+
+.dashboard .block {
+	color: #7F5ED4;
+	background: #fff;
+	margin: 12px 0;
+	padding: 16px 20px;
+	border-radius: 8px;
+}
+
+.dashboard .circle h5 {
+	text-transform: uppercase;
+}
+
+.dashboard .circle .content {
+	text-align: right;
+	float: right;
+}
+
+.dashboard i {
+	border: 4px solid #7F5ED4;
+	border-radius: 100%;
+	text-align: center;
+	width: 120px;
+	height: 120px;
+	line-height: 120px;
+	color: #7F5ED4;
+	margin-right: 20px;
+}
+
+.dashboard .btn {
+	width: 100px;
+}
